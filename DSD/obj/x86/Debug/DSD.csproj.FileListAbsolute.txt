@@ -1,0 +1,5 @@
+/home/mightyhermes/DSD/DSD/DSD/obj/x86/Debug/DSD.csproj.CoreCompileInputs.cache
+/home/mightyhermes/DSD/DSD/DSD/bin/Debug/DSD.exe
+/home/mightyhermes/DSD/DSD/DSD/bin/Debug/DSD.pdb
+/home/mightyhermes/DSD/DSD/DSD/obj/x86/Debug/DSD.exe
+/home/mightyhermes/DSD/DSD/DSD/obj/x86/Debug/DSD.pdb
